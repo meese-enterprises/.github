@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ajmeese7/readme-ascii">
-    <img src="./Meese_ASCII.png" alt="Meese Enterprises ASCII" title="README ASCII">
+    <img src="https://github.com/meese-enterprises/.github/blob/master/profile/Meese_ASCII.png" alt="Meese Enterprises ASCII" title="README ASCII">
   </a>
 </p>
 <br />
