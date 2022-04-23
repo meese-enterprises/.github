@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/ajmeese7/readme-ascii">
+    <img src="./Meese_ASCII.png" alt="Meese Enterprises ASCII" title="README ASCII">
+  </a>
+</p>
+<br />
 
 Meese Enterprises is a veteran-owned team of developers, designers, and content creators who are dedicated to providing the best possible experience to our customers.
 
